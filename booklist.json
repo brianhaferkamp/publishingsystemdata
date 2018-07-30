@@ -12,5 +12,11 @@
 		"bookauthor": "Lewis Carroll",
 		"bookcategory": "Children",
 		"bookid": "aliceinwonderland"
+	},
+	"book": {
+		"bookimage": "https://placehold.it/200x250",
+		"booktitle": "Alice ",
+		"bookauthor": "Book Author",
+		"bookcategory": "Category"
 	}
 }
